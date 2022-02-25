@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prayer for the perfecting our late deliverance, by the happy success of Their Majesties forces by sea and land</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55649</idno>
+            <idno type="STC">Wing P3191A</idno>
+            <idno type="STC">ESTC R218346</idno>
+            <idno type="EEBO-CITATION">99829949</idno>
+            <idno type="PROQUEST">99829949</idno>
+            <idno type="VID">34396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55649)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34396)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prayer for the perfecting our late deliverance, by the happy success of Their Majesties forces by sea and land</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Chiswell, at the Rose and Crown in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Running title: A prayer for perfecting our late deliverance.</note>
+                  <note>Reproduction of the original at the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  1689-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:34396:1"/>
+            <!-- PDF PAGE 62 -->
+            <pb facs="tcp:34396:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <head>A PRAYER FOR The Perfecting our late Delive<g ref="char:EOLhyphen"/>rance, by the happy Succeſs of Their MAJESTIES Forces by Sea and Land.</head>
+            <p>O Moſt mighty Lord, who ſitteſt in the Throne judging right, and miniſtreſt Judgment to the People in uprightneſs; who haſt pro<g ref="char:EOLhyphen"/>miſed to be a refuge for the oppreſſed, a refuge in times of trouble; We moſt humbly fall down before thy Majeſty to beſeech thee, to appear at this time in the behalf of theſe three Kingdoms; and to maintain our Right and our Cauſe againſt thoſe who ſeek to deſtroy us.</p>
+            <p>Our Sins, we acknowledge, may juſtly provoke thee to deliver us up
+<pb facs="tcp:34396:2"/>
+               <!-- PDF PAGE 63 -->into their cruel hands; becauſe we have been as unthankful for many ineſtimable Bleſſings, particularly the late wonderful Deliverance thou haſt wrought for us, as we have been un<g ref="char:EOLhyphen"/>corrigible under our former diſtreſſes, and all the Puniſhments thou haſt in<g ref="char:EOLhyphen"/>flicted on us.</p>
+            <p>But the more unworthy we are, the more will thy Mercy be magnified in our Salvation. And therefore, <hi>Not unto us, O Lord, not unto us, but unto thy name give glory; for thy mercy, and for thy truths ſake.</hi> Save us, for the ſake of thy Holy Religion, which, in a mar<g ref="char:EOLhyphen"/>vellous manner, hath been both planted and preſerved in theſe Kingdoms; for the ſake of many of thy faithful Servants among us, who are afraid of thy Judg<g ref="char:EOLhyphen"/>ments, and lay to heart thy Mercies, and bewail our foul Ingratitude, and earneſtly deſire to ſee ſincere Piety flou<g ref="char:EOLhyphen"/>riſh every where.</p>
+            <p>Hear their Prayer, O Lord, and let their Cry come unto thee. Pardon all their former uncharitableneſs one to<g ref="char:EOLhyphen"/>wards
+<pb facs="tcp:34396:2"/>
+               <!-- PDF PAGE 63 -->another. that it may not hinder the Bleſſings they deſire. And give us grace, for the time to come, to live in love and peace, and to ſeek the good of one another.</p>
+            <p>
+               <hi>Thou haſt been our helper; leave us not, neither forſake us, O God of our ſalvation.</hi> But, as thou haſt fulfilled our Petitions, and granted our hearts deſire, in blaſting all the Deſigns of our Enemies in this Kingdom; ſo we be<g ref="char:EOLhyphen"/>ſeech thee ſtill to confound and turn them backward that labour to regain their power to do us evil. Make them ſtill <hi>as the graſs on the houſe top, which withereth before it be grown up.</hi> What<g ref="char:EOLhyphen"/>ſoever miſchief they project or attempt, let not their hand be able to perform their Enterpriſe.</p>
+            <p>Suffer not that glorious Work (which thy goodneſs hath begun) to miſcarry by our frowardneſs and folly: But <hi>ſtrengthen, O God, and ſtabliſh that which thou haſt wrought for us;</hi> and carry it on to Perfection, by thy own Almighty Arm, which hath been ſtretched out
+<pb facs="tcp:34396:3"/>
+               <!-- PDF PAGE 64 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:34396:3"/>
+               <!-- PDF PAGE 64 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:34396:4"/>
+               <!-- PDF PAGE 65 -->againſt thoſe who went about to ſub<g ref="char:EOLhyphen"/>vert our Laws, Liberties and Reli<g ref="char:EOLhyphen"/>gion. As thou haſt beaten down all Arbitrary and Antichriſtian Power among us, in a moſt remarkable man<g ref="char:EOLhyphen"/>ner; ſo never ſuffer it to riſe up again: But proceed, O Moſt Mighty, to cruſh it every where elſe, till it be utterly ſuppreſſed.</p>
+            <p>And for that end, we beſeech thee to unite all our hearts in ſuch ſincere affection and right underſtanding, that we may be in a condition not only to defend our ſelves, but to help other Reformed Churches, that are or may be in danger. Diſcover to every one among us their Errors; root out their falſe Principles; ſatisfie all their Doubts and Scruples; remove their Prejudices; open their Eyes to ſee the things which belong to our peace; that we may be diſpoſed, with one mind and one mouth, to glorifie thy Name, for reſcuing us from Popery and Arbi<g ref="char:EOLhyphen"/>trary Power; and to joyn our faith<g ref="char:EOLhyphen"/>ful endeavours for the ſupport of
+<pb facs="tcp:34396:4"/>
+               <!-- PDF PAGE 65 -->His Authority, who was the bleſſed Inſtrument of that Deliverance.</p>
+            <p>Eſtabliſh the Throne of our Sovereign Lord and Lady, KING WILLIAM and QUEEN MARY; and let them all be put to ſhame who ſet them<g ref="char:EOLhyphen"/>ſelves to overturn it. Protect their Royal Perſons, prolong their Days, direct their Counſels, make their Forces by Sea and by Land Victorious. Crown them with all Perſonal and Princely Vertues; and then Crown thoſe Vertues with ſuch proſperous Succeſſes in all their Enterpriſes; that the World may ſee in them the love thou beareſt to righteous and pious Rulers.</p>
+            <p>Particularly we beſeech thee to ſuc<g ref="char:EOLhyphen"/>ceed their endeavours for the Delive<g ref="char:EOLhyphen"/>rance of our Brethren in IRELAND, whom thou haſt ſuffered to fall under that power from which thy merciful Providence hath reſcued us. <hi>Make haſte, O Lord, to help them;</hi> by ſen<g ref="char:EOLhyphen"/>ding timely Succours for their Relief, and accompanying them with thy
+<pb facs="tcp:34396:5"/>
+               <!-- PDF PAGE 66 -->Bleſſing. Make the Winds and the Seas favourable to them: And when Thou haſt tranſported them thither and given them a ſafe Landing there, ſtrike a terror into all their Oppoſers, that they may not be able to ſtand before them.</p>
+            <p>Make us all ſenſible, That what<g ref="char:EOLhyphen"/>ſoever Preparations are made againſt the Day of Battle, Safety is of thee, O Lord: That ſo we may not truſt to our own Strength or Wiſ<g ref="char:EOLhyphen"/>dom, but <hi>call continually unto thee, the moſt High, who ſhall perform the cauſe which we have in hand.</hi>
+            </p>
+            <p>
+               <hi>For whenſoever we call upon thee,</hi> faith<g ref="char:EOLhyphen"/>fully, <hi>then ſhall our enemies be put to flight: this we know, for God is on our ſide.</hi>
+            </p>
+            <p>
+               <hi>O be thou our help in trouble, for vain is the help of man.</hi>
+            </p>
+            <p>
+               <hi>Through thee ſhall we do great Acts, for it is thou that ſhalt tread down our enemies.</hi>
+            </p>
+            <pb facs="tcp:34396:5"/>
+            <!-- PDF PAGE 66 -->
+            <p>
+               <hi>Be thou exalted in thy own ſtrength: ſo ſhall we ſing and praiſe thy power.</hi>
+            </p>
+            <p>And bleſs, we alſo beſeech thee, the Forces that are now Confederate againſt him who hath dealt perfidi<g ref="char:EOLhyphen"/>ouſly with all his Neighbours, and moſt grievouſly afflicted them a long time with injurious Wars. Favour their righteous Cauſe with ſuch ſuc<g ref="char:EOLhyphen"/>ceſs, that they may humble him, and lay him ſo low, that he may not be able to trouble the World any more. Hear the Complaint of thoſe oppreſſed People, who cry unto thee, ſaying, <hi>O God to whom vengeance belong<g ref="char:EOLhyphen"/>eth, O God to whom vengeance belongeth, ſhew thy ſelf. Lift up thy ſelf, thou Judge of the Earth, and render a reward to the proud.</hi>
+            </p>
+            <p>
+               <hi>Ariſe, O Lord, lift up thy hand; forget not the poor: let not their expecta<g ref="char:EOLhyphen"/>tion periſh for ever.</hi>
+            </p>
+            <p>
+               <hi>Let not</hi> their haughty Oppreſſions <hi>have the upper-hand: but let them be judged in thy ſight.</hi>
+            </p>
+            <pb facs="tcp:34396:6"/>
+            <!-- PDF PAGE 67 -->
+            <p>
+               <hi>Put them in fear, O Lord, that they may know themſelves to be but men.</hi>
+            </p>
+            <p>
+               <hi>So will we praiſe thee for ever, becauſe thou haſt done it.</hi>
+            </p>
+            <p>
+               <hi>We will ſing of thy power, and of thy mercy, becauſe thou haſt been our defence &amp; refuge in the day of our trouble.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto thee, O our Strength, will we ſing; for God is our defence, and the God of our mercy;</hi> through Chriſt Jeſus. To whom, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LICENS'D, <hi>July</hi> 15. 1689.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
